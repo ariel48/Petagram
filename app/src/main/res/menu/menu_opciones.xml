@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mFavoritas"
+        android:title="@string/menu_favoritas"
+        android:orderInCategory="100"
+        >
+    </item>
+
+    <item
+        android:id="@+id/mPrincipal"
+        android:title="@string/menu_principal"
+        android:orderInCategory="101"
+        >
+    </item>
+
+    <item
+        android:id="@+id/mStar"
+        android:title="@string/action_view_estrella"
+        android:orderInCategory="102"
+        app:showAsAction="always"
+        android:icon="@drawable/png_clipart_5_star_computer_icons_hotel_rating_gratis_rating_angle_triangle_thumbnail"
+        >
+    </item>
+
+</menu>
