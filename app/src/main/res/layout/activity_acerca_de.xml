@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AcercaDeActivity">
+
+
+    <include android:id="@+id/miActionBar"
+        layout="@layout/actionbar">
+    </include>
+
+
+    <TextView
+        android:id="@+id/tvNombreBio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/margen_nombre_desarrollador"
+        android:text="@string/nombre_Desarrollador"
+        android:textSize="@dimen/letra_nombre_bio"
+        >
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/tvBioDesarrollador"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvNombreBio"
+        android:layout_marginTop="@dimen/margen_nombre_desarrollador"
+        android:text="@string/bio_desarrollador"
+        android:layout_centerHorizontal="true"
+        >
+
+    </TextView>
+
+
+
+</RelativeLayout>

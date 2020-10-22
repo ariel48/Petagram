@@ -1,10 +1,12 @@
 package com.aroejg.listadomascotas;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+import android.telephony.ims.RcsUceAdapter;
 import android.widget.Toolbar;
 
 import java.util.ArrayList;
@@ -40,6 +42,7 @@ public class MascotasFavoritas extends AppCompatActivity {
 
 
     }
+
 
 
     public MascotaAdaptador adaptador;

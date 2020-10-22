@@ -3,7 +3,19 @@
     <string name="nombre">Catty</string>
     <string name="pnombre">nombre</string>
     <string name="plikes">likes</string>
-    <string name="menu_favoritas">Mascotas favoritas</string>
-    <string name="menu_principal">Principal</string>
+    <string name="menu_Contacto">Contacto</string>
+    <string name="menu_Acerca_De">Acerca De</string>
     <string name="action_view_estrella">Favoritas</string>
+    <string name="nombre_Desarrollador">Ariel</string>
+    <string name="bio_desarrollador">KASdlaskdlaksd alladalsd
+    adlaksdlklasdlamdlamldmla,sdalsdladlmqwlmlqwdadlas
+    adlamdmdwmqmdmdlamsdlmalwkojfnkadmnf,asmdsamd
+    mdqkmdkamsdmadmqpwmm mpdqwpdpowd  dpqmwdpkqwpdokopwqdmwq
+    mdqmdqmdmqwdmmqwd dqmdlmqdqwdmpqwmdqwdm  mdlmqwdmqwmdwq</string>
+    <string name="contacto_nombre">Nombre</string>
+    <string name="contacto_email">Email</string>
+    <string name="contacto_mensaje">Mensaje</string>
+    <string name="boton_contacto">Enviar Comentario</string>
+    <string name="hello_blank_fragment">LASSIE</string>
+
 </resources>

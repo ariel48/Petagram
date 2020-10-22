@@ -2,6 +2,8 @@
 <resources>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tab_vertical_margin">60dp</dimen>
+    <dimen name="vertical_recycler">100dp</dimen>
     <dimen name="nombre_mascota">33sp</dimen>
     //<dimen name="telefono_contacto">20sp</dimen>
     <dimen name="top">20dp</dimen>
@@ -9,5 +11,6 @@
     <dimen name="corner_radius_cardview">10dp</dimen>
     <dimen name="nombre_cardview">16sp</dimen>
     <dimen name="elevacion_actionbar">4dp</dimen>
-
+    <dimen name="margen_nombre_desarrollador">100dp</dimen>
+    <dimen name="letra_nombre_bio">30sp</dimen>
 </resources>

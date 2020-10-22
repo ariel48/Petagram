@@ -14,6 +14,11 @@ public class Mascota {
     }
 
 
+    public Mascota (int foto, String like){
+        this.foto =foto;
+        this.like = like;
+    }
+
     public String getNombre() {
         return nombre;
     }

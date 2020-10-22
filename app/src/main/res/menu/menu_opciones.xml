@@ -2,15 +2,15 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/mFavoritas"
-        android:title="@string/menu_favoritas"
+        android:id="@+id/mContacto"
+        android:title="@string/menu_Contacto"
         android:orderInCategory="100"
         >
     </item>
 
     <item
-        android:id="@+id/mPrincipal"
-        android:title="@string/menu_principal"
+        android:id="@+id/mAcercaDe"
+        android:title="@string/menu_Acerca_De"
         android:orderInCategory="101"
         >
     </item>
