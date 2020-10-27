@@ -6,7 +6,7 @@ import android.widget.EditText;
 
 import java.util.Properties;
 //import javax.mail.*;
-import javax.*;
+//import javax.*;
 
 
 import androidx.appcompat.app.AppCompatActivity;

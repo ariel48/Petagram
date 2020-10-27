@@ -1,7 +1,8 @@
 package com.aroejg.listadomascotas;
 
 public class Mascota {
-    
+
+    private int id;
     private String nombre;
     private int foto;
     private String like;
@@ -17,6 +18,10 @@ public class Mascota {
     public Mascota (int foto, String like){
         this.foto =foto;
         this.like = like;
+    }
+
+    public Mascota() {
+
     }
 
     public String getNombre() {
@@ -41,5 +46,13 @@ public class Mascota {
 
     public void setLike(String like) {
         this.like = like;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 }
